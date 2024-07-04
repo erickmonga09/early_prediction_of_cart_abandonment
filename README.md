@@ -13,7 +13,7 @@ The evaluation set is available for download at the following link:
 [Download Evaluation Set](https://drive.google.com/file/d/1lgI-_dYSZ3lOHMJSnjkhaNHRG0NPtzoe/view?usp=drive_link)
 
 ### Training Set
-The training set is quite large (approximately 5GB). To obtain the training set, please contact me.
+The training set is quite large (approximately 5GB). To obtain the training set, please contact me (erickmongames@gmail.com).
 
 
 ## Evaluation Metric
