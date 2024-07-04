@@ -5,7 +5,16 @@ This group project aims to perform early prediction of whether a user will aband
 To predict cart abandonment based on user behavior during the shopping session, focusing on clicks and actions taken by the user.
 
 ## Dataset
+
 The dataset was provided by the organizers of the challenge. It includes user sessions with details of actions performed during each session, such as adding products to the cart, viewing product details, and making purchases.
+
+### Evaluation Set
+The evaluation set is available for download at the following link:
+[Download Evaluation Set](https://drive.google.com/file/d/1lgI-_dYSZ3lOHMJSnjkhaNHRG0NPtzoe/view?usp=drive_link)
+
+### Training Set
+The training set is quite large (approximately 5GB). To obtain the training set, please contact me.
+
 
 ## Evaluation Metric
 The primary evaluation metric for this project is the F1 score. Predictions are evaluated at 5, 10, and 15 clicks after the first add-to-cart event in a session.
