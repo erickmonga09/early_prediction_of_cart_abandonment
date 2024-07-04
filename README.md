@@ -1,4 +1,4 @@
-# Early_prediction_of_cart_abandonment
+# Early prediction of cart abandonment
 This project aims to perform early prediction of whether a user will abandon their cart in the current shopping session after adding at least one product to the cart. This is a binary classification problem, where each session is classified as either abandoned (negative class) or completed (positive class). The project involves several tasks, including preprocessing the data, implementing a baseline Naïve Bayes classifier, developing an experimental model, creating an oracle model, and conducting error analysis.
 
 ## Main Goal
